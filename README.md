@@ -15,6 +15,11 @@ int main() {
 }
 ```
 
+##### Bash
+```bash
+echo "Hello World"
+```
+
 ##### Java
 ```java
 import java.io.*;
