@@ -2,28 +2,35 @@
 ##### Check out my repositories and who knows you might find something useful. In this README you can find the most important code snippet for every programming language I used so far (starting from the most recent one until)
 
 ##### Python
+```python
 print("Hello World")
+```
 
 ##### C
+```C
 #include <stdio.h>
 int main() {
    printf("Hello World");
    return 0;
 }
+```
 
 ##### Java
+```java
 import java.io.*;
 class printHelloWorld {
     public static void main (String[] args) {
        System.out.println("Hello World");
     }
 }
+```
 
 ##### Dart
+```dart
 main(){
     print('Hello World');
 }
-
+```
 
 <!--
 ### Hello world 🧭 
