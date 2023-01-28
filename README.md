@@ -20,6 +20,13 @@ int main() {
 echo "Hello World"
 ```
 
+##### Dart
+```dart
+main(){
+    print('Hello World');
+}
+```
+
 ##### Java
 ```java
 import java.io.*;
@@ -27,13 +34,6 @@ class printHelloWorld {
     public static void main (String[] args) {
        System.out.println("Hello World");
     }
-}
-```
-
-##### Dart
-```dart
-main(){
-    print('Hello World');
 }
 ```
 
