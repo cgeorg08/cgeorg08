@@ -2,7 +2,6 @@
 #### Check out my repositories and who knows you might find something useful. In this README you can find the most important code snippet for every programming language I used so far (starting from the most recent one).
 
 ##### C++
-
 ```cpp
 #include <iostream>
 int main() {
